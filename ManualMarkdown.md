@@ -15,3 +15,10 @@ Lista: (Viñetas)
 - Objeto 3.
 
 ![Imagen al azar](forest-8371211_1280.jpg)
+
+| Nombre  | Apellido | DNI|
+|---------|----------|----|
+| Roberto |
+| Oliver  |
+| Jose    |
+| Davida  |
