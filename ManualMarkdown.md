@@ -2,22 +2,28 @@
 # Título (Con un almohadilla)
 ## Subtitulo (Más almohadilla es más pequeño)
 ### Subtitulo más pequeño
+
 [Con dos asteríscos para poner lo en negrita a los dos lados.]:
 **Cosas que escribo pa que estén en negrita**
+
 [Con un asterísco lo ponemos en cursiva]:
 *Esto está en cursiva*
+
 [Creamos listas ordenadas, con números romanos, por orden alfabético, etc.]:
 Lista: (Ordenado)
 1. Objeto 1.
 2. Objeto 2.
 3. Objeto 3.
+
 [Creamos una lista si que importe el orden y pudes usar +, -, etc.]:
 Lista: (Viñetas)
 - Objeto 1.
 - Objeto 2.
 - Objeto 3.
+
 [Para poder subir una foto primero tenemos que guardarla dentro de github, y poner la ruta del propio porgrama]:
 ![Imagen al azar](forest-8371211_1280.jpg)
+
 [De esta manera podemos hacer tablas en Markdown]:
 | Nombre  | Apellido | DNI |
 |---------|----------|-----|
@@ -25,8 +31,10 @@ Lista: (Viñetas)
 | Oliver  | Marcos   | 745 |
 | Jose    | Valiente | 745 |
 | David   | Sida     | 745 |
+
 [Es una manera de colocar información útil y que resalte.]:
 >Esto es una cita.
+
 [Sirve para poder enseñar código de una manera más elegante.]:
 Mi código
 
