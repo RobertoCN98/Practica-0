@@ -4,7 +4,7 @@
 ### Subtitulo más pequeño
 
 <!--Con dos asteríscos para poner lo en negrita a los dos lados-->
-**Cosas que escribo para que estén en negrita**
+***Cosas que escribo para que estén en negrita***
 
 <!--Con un asterísco lo ponemos en cursiva-->
 *Esto está en cursiva*
