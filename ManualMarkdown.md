@@ -21,6 +21,14 @@ Lista: (Viñetas)
 - Objeto 2.
 - Objeto 3.
 
+<!--De esta manera combinamos los dos tipos de listas-->
+Lista combinada:
+1. objeto 1.
+2. Objeto 2.
+   - sub objeto 1.
+   - sub objeto 2.
+3. Objeto 3.
+
 <!--Para poder subir una foto primero tenemos que guardarla dentro de github, y poner la ruta del propio porgrama-->
 ![Imagen al azar](forest-8371211_1280.jpg)
 
